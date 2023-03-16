@@ -1,0 +1,80 @@
+150 widgets received from Oak Wood at $3.0 each
+
+130 widgets received from Cherry Maple Wood at $5.0 each
+
+145 pieces of Oak Wood sold
+	     145 at $4.2 each.    Sales: $609.00
+	             Total sale = $609.00
+
+50 widgets received from Oak Wood at $6.0 each
+
+75 pieces of Cherry Maple Wood sold
+	     75 at $7.0 each.    Sales: $525.00
+	             Total sale = $525.0
+
+Remainder of 180 pieces of oak not available.
+55 widgets sold
+	     5 at $4.2 each.    Sales: $21.00
+	     50 at $8.4 each.    Sales: $420.00
+	             Total sale = $441.00
+
+50 widgets received from Cherry Maple Wood at $7.0 each
+
+30 widgets received from Cherry Maple Wood at $8.0 each
+
+40 widgets received from Oak Wood at $9.0 each
+
+A promotion of 30.0% will be applied to the next customer.
+50 pieces of Cherry Maple Wood sold
+	     50 at $7.0 each.    Sales: $245.00
+	             Total sale = $245.0
+
+30 pieces of Oak Wood sold
+	     30 at $12.6 each.    Sales: $378.00
+	             Total sale = $378.00
+
+50 widgets received from Cherry Maple Wood at $10.0 each
+
+265 widgets received from Oak Wood at $11.0 each
+
+60 pieces of Oak Wood sold
+	     10 at $12.6 each.    Sales: $126.00
+	     50 at $15.4 each.    Sales: $770.00
+	             Total sale = $896.00
+
+A promotion of 50.0% will be applied to the next customer.
+100 pieces of Oak Wood sold
+	     100 at $15.4 each.    Sales: $770.00
+	             Total sale = $770.00
+
+70 pieces of Cherry Maple Wood sold
+	     5 at $7.0 each.    Sales: $35.00
+	     50 at $9.8 each.    Sales: $490.00
+	     15 at $11.2 each.    Sales: $168.00
+	             Total sale = $693.0
+
+Remainder of 175 pieces of oak not available.
+115 widgets sold
+	     115 at $15.4 each.    Sales: $1771.00
+	             Total sale = $1771.00
+
+40 widgets received from Cherry Maple Wood at $13.0 each
+
+75 widgets received from Oak Wood at $15.0 each
+
+50 pieces of Oak Wood sold
+	     50 at $21.0 each.    Sales: $1050.00
+	             Total sale = $1050.00
+
+30 widgets received from Cherry Maple Wood at $16.0 each
+
+40 widgets received from Oak Wood at $18.0 each
+
+65 pieces of oak wood remaining in stock
+	25 pieces at $15.0
+	40 pieces at $18.0
+135 pieces of cherry maple wood remaining in stock
+	15 pieces at $8.0
+	50 pieces at $10.0
+	40 pieces at $13.0
+	30 pieces at $16.0
